@@ -1,4 +1,6 @@
 streamlit
+fastapi
+uvicorn[standard]
 langchain-google-genai
 langchain-core
 langchain-text-splitters
